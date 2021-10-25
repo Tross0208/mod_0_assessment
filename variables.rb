@@ -6,4 +6,4 @@ num_9 = 9
 sum = num_3 + num_9
 animals = ["otter", "panda", "goat"]
 animals.delete_at(0)
-puts "animals".length
+puts "famous_person".length
