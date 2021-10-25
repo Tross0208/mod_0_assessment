@@ -1,4 +1,4 @@
-AIRPORT = {
+airport = {
   name: "ORD",
   city: "Chicago",
   airlines: 20,
@@ -6,7 +6,7 @@ AIRPORT = {
   is_big: true,
   is_fun: false,
   contraband: ["weapons", "narcotics"],
-  main_airlines: ["United", "American"],
-  
+  main_airlines: ["United", "American"]
+
 
 }
